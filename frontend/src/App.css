@@ -13,19 +13,19 @@
   --max-width-900: 900px;
   --header-font: "Raleway", sans-serif;
 }
-.custom-background {
+/* .custom-background {
   position: absolute;
-  inset: 0; /* equivalent to inset-0 */
-  z-index: -10; /* equivalent to -z-10 */
-  height: 100%; /* equivalent to h-full */
-  width: 100%; /* equivalent to w-full */
-  background-color: white; /* equivalent to bg-white */
+  inset: 0;
+  z-index: -10;
+  height: 100%;
+  width: 100%;
+  background-color: white;
   background: radial-gradient(
     #e5e7eb 1px,
     transparent 1px
-  ); /* radial gradient */
-  background-size: 16px 16px; /* equivalent to [background-size:16px_16px] */
-}
+  );
+  background-size: 16px 16px; 
+} */
 
 * {
   padding: 0;
