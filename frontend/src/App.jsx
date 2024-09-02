@@ -5,8 +5,10 @@ import "remixicon/fonts/remixicon.css";
 function App() {
   return (
     <>
-      <Navbar />
-      <Outlet />
+      <div className="custom-background">
+        <Navbar />
+        <Outlet />
+      </div>
     </>
   );
 }
