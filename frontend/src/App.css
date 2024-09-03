@@ -403,7 +403,7 @@ nav {
 }
 
 .blog__container {
-  background-color: var(--extra-light);
+  /* background-color: var(--extra-light); */
   border-radius: 1rem;
 }
 

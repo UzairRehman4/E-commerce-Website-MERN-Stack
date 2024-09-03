@@ -7,7 +7,7 @@ const Banner = () => {
       <div className="header__content z-30">
         <h4 className="uppercase">Up To 20% Discount on</h4>
         <h1>Girl&apos;s Fashion</h1>
-        <p>
+        <p className="font-sans">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis
           eum magnam aperiam voluptatem vitae dolorem debitis nam repudiandae
           amet possimus labore ducimus deserunt fuga quidem reiciendis.
